@@ -32,12 +32,12 @@ Stretch goals
 
 ### Screenshot
 
-![Mobile Screenshot](imgs/ss-mobile.png)
-![Desktop Screenshot](imgs/ss-desktop.png)
+- ![Mobile Screenshot](imgs/ss-mobile.png)
+- ![Desktop Screenshot](imgs/ss-desktop.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/varonalearns/Password-Generator)
 - Live Site URL: [Netlify Live Site]()
 
 ## My process
