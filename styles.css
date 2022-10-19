@@ -45,6 +45,10 @@ button {
     border-radius: 5px;
     font-weight: 700;
 }
+button:hover {
+    background-color: #fcd34d6e;
+    cursor: pointer;
+}
 hr {
     border: 1px solid #0284C7;
     border-radius: 5px;
