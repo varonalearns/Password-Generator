@@ -20,7 +20,7 @@ section {
     background-color: #0C4A6E;
     margin: auto 1rem;
     border-radius: 5px;
-    padding: 5rem 2rem;
+    padding: 3rem 2rem;
 }
 .content {
     margin-bottom: 1rem;
@@ -73,6 +73,9 @@ hr {
     Tablet Design
 ------------------------------------------------------------------------------*/
 @media screen and (min-width: 700px) {
+    section {
+        padding: 5rem 2rem;
+    }
     .passwords {
         display: flex;
     }
