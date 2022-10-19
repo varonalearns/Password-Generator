@@ -14,7 +14,6 @@ This is a solution to [Scrimba - Solo Project - Password Generator](https://scri
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
 
 ## Overview
@@ -51,10 +50,11 @@ Stretch goals
 
 ### What I learned
 
+I learned that even though I was nervous approaching this solo project, I was prepared despite my misgivings. 
 
 ### Continued development
 
-### Useful resources
+I want to, in the future, tackle the stretch goals as I learn more and have more skills underneath my belt.
 
 ## Author
 
